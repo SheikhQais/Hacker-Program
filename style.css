@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: rgb(10, 238, 10);
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: medium;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
